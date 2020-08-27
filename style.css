@@ -1,0 +1,27 @@
+
+ h1{
+    color:aqua;
+}
+h3{
+    color:black
+}
+p{
+    border:solid;
+    font-family: "ink free";
+}
+body{
+    background-color:burlywood
+}
+.games1{
+    background-color:greenyellow;
+    color:red
+}
+
+.menu{
+    display: flex;
+    border : solid;
+    justify-content: space-around;
+}
+a{
+    border: solid
+}
